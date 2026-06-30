@@ -1,0 +1,7 @@
+Model/Method,Quadratic weighted kappa,95% CI lower,95% CI upper,Agreement level (reported; no hybrid labels)
+Claude Opus 4.5 vs attending/two-reader sensitivity reference,0.831,0.762,0.881,Substantial
+Gemini 2.5 Pro vs attending/two-reader sensitivity reference,0.832,0.76,0.883,Substantial
+Claude Opus 4.5 excluding complete-disagreement cases,0.816,0.73,0.881,Substantial
+Gemini 2.5 Pro excluding complete-disagreement cases,0.81,0.731,0.868,Substantial
+"Claude Opus 4.5, attending/two-reader + no complete-disagreement cases",0.841,0.768,0.9,Substantial
+"Gemini 2.5 Pro, attending/two-reader + no complete-disagreement cases",0.829,0.755,0.884,Substantial

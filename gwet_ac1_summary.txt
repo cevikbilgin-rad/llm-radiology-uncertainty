@@ -1,0 +1,6 @@
+Model/Method,Quadratic weighted kappa,95% CI lower,95% CI upper,Agreement level (reported; no hybrid labels)
+PGY-2/operator vs attending,0.659,0.516,0.776,Moderate
+Senior resident vs attending,0.497,0.342,0.633,Fair
+PGY-2/operator vs senior resident,0.421,0.252,0.569,Fair
+Attending vs final consensus,0.902,0.827,0.961,Almost perfect
+Fleiss kappa (3-reader overall),0.273,0.186,0.364,Fair

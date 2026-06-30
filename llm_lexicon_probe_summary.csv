@@ -1,0 +1,4 @@
+Model,Discordant cases,Minor deviations (1-point),Major deviations (>=2-point),Over-hedging (model > consensus),Under-hedging (model < consensus)
+Claude Opus 4.5,32,30,2,25,7
+Gemini 2.5 Pro,29,28,1,17,12
+Lexicon baseline,54,41,13,48,6

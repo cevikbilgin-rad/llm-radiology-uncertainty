@@ -1,0 +1,5 @@
+Model/Method,Quadratic weighted kappa,95% CI lower,95% CI upper,Agreement level (reported; no hybrid labels)
+Gemini 2.5 Pro,0.814,0.739,0.872,Substantial
+Claude Opus 4.5,0.807,0.726,0.869,Substantial
+Lexicon baseline,0.622,0.516,0.713,Moderate
+Inter-model agreement (Claude vs Gemini),0.857,0.801,0.901,Almost perfect
